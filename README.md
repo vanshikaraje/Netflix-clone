@@ -1,26 +1,35 @@
-# 🎬 Netflix Clone (Beginner Project)
+# 🎬 Netflix Clone - HTML & CSS Only
 
-A simple and responsive **Netflix homepage clone** built using only **HTML** and **CSS**.  
-This project is made as a **beginner-friendly** practice to learn frontend layout and design.
+Welcome to my **Netflix Homepage Clone** – a beginner-friendly project built using just **HTML** and **CSS**.
 
----
-
-## 📌 Purpose
-
-This project helps beginners learn:
-
-- ✅ Basic HTML structure
-- ✅ CSS styling and layout
-- ✅ Flexbox and positioning
-- ✅ Responsive web design concepts
+This project is part of my journey to master frontend development, and recreates the landing page of Netflix to practice layout, styling, and responsiveness – no JavaScript, no frameworks, just clean code.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Features
 
-- **HTML5**
-- **CSS3**
+- ✅ Netflix-style Hero Section
+- ✅ Responsive layout (works on desktop & mobile)
+- ✅ Stylish buttons and forms
+- ✅ Footer with links
+- ✅ Clean and simple design
 
-> No JavaScript or external libraries used.
+---
+
+## 📚 What I Learned
+
+- Building real-world UIs with **pure HTML & CSS**
+- Using **Flexbox** for alignment and layout
+- Managing **responsive design** without media query overkill
+- Creating **visually appealing sections** with background images and overlays
+- Improving folder and asset organization
+
+---
+
+## 🛠 Tech Stack
+
+- 💻 HTML5  
+- 🎨 CSS3  
+> No JavaScript or external libraries used – just code from scratch!
 
 ---
