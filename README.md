@@ -32,4 +32,4 @@ This project is part of my journey to master frontend development, and recreates
 - 🎨 CSS3  
 > No JavaScript or external libraries used – just code from scratch!
 
----
+
