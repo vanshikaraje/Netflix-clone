@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone - HTML & CSS Only
+# 🎬 Netflix Clone - HTML & CSS Onl
 
 Welcome to my **Netflix Homepage Clone** – a beginner-friendly project built using just **HTML** and **CSS**.
 
